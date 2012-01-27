@@ -1,6 +1,7 @@
 # BAsh: the (B)en (A)nderson (sh)ell
 
-## CS575 Operating Systems - Fall 2011 Project
+## Operating Systems - Fall 2011 Project
+
 
 Author: Ben Anderson
 Date: 9/23/2011
