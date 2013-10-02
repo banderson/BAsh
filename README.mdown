@@ -3,5 +3,7 @@
 ## Operating Systems - Fall 2011 Project
 
 
+Here's how this could be [implemented in Ruby](https://dl.dropboxusercontent.com/u/1746589/Unix%20Shell%20in%20Ruby.pdf), should inspiration strike.
+
 Author: Ben Anderson
 Date: 9/23/2011
